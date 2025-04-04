@@ -1,0 +1,5 @@
+rabbit:
+  host: "hmg.rabbitmq.com"
+  port: 5672
+  user: "hmg_user"
+  pass: "hmg_pass"

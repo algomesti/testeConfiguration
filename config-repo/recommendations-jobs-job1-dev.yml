@@ -1,2 +1,0 @@
-enable: true
-cron: "0 0 * * * ?"  # Executa a cada hora

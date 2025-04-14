@@ -1,5 +1,0 @@
-rabbit:
-  host: "prd.rabbitmq.com"
-  port: 5672
-  user: "prod_user"
-  pass: "prod_pass"

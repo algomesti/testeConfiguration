@@ -1,2 +1,0 @@
-recommendations-jobs-job1-prd.ymlenable: false
-cron: "1 2 2 * * ?"  # Executa todo dia às 2h da manhã de outro

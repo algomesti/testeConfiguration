@@ -1,6 +1,0 @@
-rabbit:
-  id: "store.prd"
-  host: "prd.rabbitmq.com"
-  port: 5672
-  user: "dev_user"
-  pass: "dev_pass"

@@ -1,0 +1,5 @@
+rabbit:
+  host: "dev.rabbitmq.com11"
+  port: 5672
+  user: "dev_user"
+  pass: "dev_pass"

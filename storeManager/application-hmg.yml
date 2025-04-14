@@ -1,5 +1,5 @@
 environment: "hmg"
 detail: 
   name: homologacao
-  description: Ambiente para homologar o projeto CountryManager
+  description: Ambiente para homologar o projeto StoreManager
 

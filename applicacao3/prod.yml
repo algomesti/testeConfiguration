@@ -1,2 +1,0 @@
-enable: true
-cron: "0 0 2 * * ?"  # Executa todo dia às 2h da manhã

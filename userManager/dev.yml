@@ -1,4 +1,5 @@
 rabbit:
+  id: "user.dev"
   host: "dev.rabbitmq.com"
   port: 5672
   user: "dev_user"

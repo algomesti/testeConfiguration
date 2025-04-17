@@ -1,0 +1,5 @@
+jobs:
+  playlist-artist-hits-cover:
+    others:
+      force-enable: false
+      schedule: 0 */2333333 * * * *

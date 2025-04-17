@@ -1,0 +1,5 @@
+spring:
+  config:
+    import: optional:classpath:job/playlist-artist-hits/cover/br.yml
+    import: optional:classpath:job/playlist-artist-hits/cover/others.yml
+    import: optional:classpath:job/playlist-artist-hits/cover/default.yml

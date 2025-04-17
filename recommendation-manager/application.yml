@@ -2,4 +2,4 @@ environment: "def"
 description: recommendationManager Ambiente Default
 spring:
   config:
-    import: optional:classpath:job/playlist-artist-hits/application.yml
+    import: optional:job/playlist-artist-hits/application.yml

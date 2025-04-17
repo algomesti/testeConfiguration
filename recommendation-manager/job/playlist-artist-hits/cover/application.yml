@@ -1,6 +1,6 @@
 spring:
   config:
     import: 
-      - optional:classpath:job/playlist-artist-hits/cover/br.yml
-      - optional:classpath:job/playlist-artist-hits/cover/others.yml
-      - optional:classpath:job/playlist-artist-hits/cover/default.yml
+      - optional:classpath:br.yml
+      - optional:classpath:others.yml
+      - optional:classpath:default.yml

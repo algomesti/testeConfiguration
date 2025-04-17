@@ -1,3 +1,3 @@
 spring:
   config:
-    import: optional:job/playlist-artist-hits/application.yml
+    import: optional:job/application.yml

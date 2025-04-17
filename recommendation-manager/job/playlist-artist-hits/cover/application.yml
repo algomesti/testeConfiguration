@@ -1,3 +1,4 @@
+description: recommendationManager PlaylistArtist Hits Ambiente Default
 spring:
   config:
     import: optional:classpath:job/playlist-artist-hits/cover/br.yml

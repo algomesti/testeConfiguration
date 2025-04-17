@@ -1,5 +1,5 @@
 jobs:
-  playlistArtistHitsCover:
+  playlist-artist-hits-cover:
     default:
       name: JOB playlistArtistHits - Cover
       enable: false     

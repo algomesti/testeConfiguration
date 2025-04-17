@@ -1,0 +1,10 @@
+consumers:
+  playlistArtistHitsCover:
+    name: Consumer playlistArtistHits - Cover
+    createCover:
+      enable: true
+      queueId: recommendation_playlistArtistHits_cover_create
+      queueName: recommendation_playlistArtistHits_cover_create
+      consumers:
+        min: 1
+        max: 5

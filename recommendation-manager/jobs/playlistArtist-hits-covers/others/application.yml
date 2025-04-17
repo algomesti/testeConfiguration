@@ -1,0 +1,5 @@
+jobs:
+  playlistArtistHitsCover:
+    br:
+      forceEnable: false
+      schedule: 0 */1112 * * * *

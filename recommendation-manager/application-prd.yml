@@ -1,0 +1,4 @@
+environment: "prd"
+detail: 
+  name: production
+  description: Ambiente para produção do projeto UserManager

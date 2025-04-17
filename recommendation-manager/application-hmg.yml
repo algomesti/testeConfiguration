@@ -1,0 +1,5 @@
+environment: "hmg"
+detail: 
+  name: homologacao
+  description: Ambiente para homologar o projeto UserManager
+

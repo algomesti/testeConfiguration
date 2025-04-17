@@ -1,0 +1,5 @@
+jobs:
+  playlistArtistHitsCover:
+    br:
+      forceEnable: true
+      schedule: 0 */2 * * * *

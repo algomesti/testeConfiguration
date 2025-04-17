@@ -1,5 +1,5 @@
 jobs:
-  playlistArtistHitsCover:
+  playlist-artist-hits-cover:
     br:
-      forceEnable: true
+      force-enable: true
       schedule: 0 */2 * * * *

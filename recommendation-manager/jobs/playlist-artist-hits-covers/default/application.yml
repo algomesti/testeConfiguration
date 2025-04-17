@@ -1,2 +1,5 @@
-name: JOB playlistArtistHits - Cover
-enable: false
+jobs:
+  playlistArtistHitsCover:
+    default:
+      name: JOB playlistArtistHits - Cover
+      enable: false     

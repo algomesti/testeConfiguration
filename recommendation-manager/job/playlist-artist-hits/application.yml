@@ -1,6 +1,7 @@
 description: recommendationManager >> PlaylistArtistHits
 spring:
   config:
-    import: optional:job/playlist-artist-hits/cover/br.yml
-    import: optional:job/playlist-artist-hits/cover/others.yml
-    import: optional:job/playlist-artist-hits/cover/default.yml
+    import: 
+    - optional:job/playlist-artist-hits/cover/br.yml
+    - optional:job/playlist-artist-hits/cover/others.yml
+    - optional:job/playlist-artist-hits/cover/default.yml

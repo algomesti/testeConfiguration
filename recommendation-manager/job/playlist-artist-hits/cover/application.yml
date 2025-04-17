@@ -1,6 +1,6 @@
 spring:
   config:
     import: 
-      - optional:classpath:br.yml
-      - optional:classpath:others.yml
-      - optional:classpath:default.yml
+      - optional:br.yml
+      - optional:others.yml
+      - optional:default.yml

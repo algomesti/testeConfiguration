@@ -2,5 +2,5 @@ spring:
   config:
     import: 
       - optional:br.yml
-      - optional:others.yml
+      - optional:other.yml
       - optional:default.yml

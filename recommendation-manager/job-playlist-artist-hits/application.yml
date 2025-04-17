@@ -1,0 +1,11 @@
+jobs:
+  playlist-artist-hits-cover:
+    br:
+      force-enable: true
+      schedule: 0 */2 * * * *
+    others:
+      force-enable: false
+      schedule: 0 */2333333 * * * *
+    default:
+      name: JOB playlistArtistHits - Cover
+      enable: false 

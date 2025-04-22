@@ -3,7 +3,7 @@ job:
     cover:
       br:
         whoiam: br
-        force-enable: false
+        force-enable: true
         schedule: 0 */2 * * * *
         cover:
           attr1: primeiro

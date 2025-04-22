@@ -1,0 +1,5 @@
+environment: dev
+detail: 
+  name: development
+  description: Ambiente para desenvolver o projeto UserManager
+

@@ -1,5 +1,6 @@
-environment: dev
-detail: 
-  name: development
-  description: Ambiente para desenvolver o projeto recommendationManager
-
+job:
+  playlist-artist-hits:
+    cover:
+      br:
+        force-enable: true
+        schedule: 0 */2 * * * *

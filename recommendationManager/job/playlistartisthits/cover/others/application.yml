@@ -2,6 +2,6 @@ job:
   playlistartisthits:
     cover:
       others:
-        whois: others
+        whoiam: others
         force-enable: false
         schedule: 0 */2333333 * * * *

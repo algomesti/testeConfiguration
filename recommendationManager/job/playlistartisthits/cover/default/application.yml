@@ -2,6 +2,6 @@ job:
   playlistartisthits:
     cover:
       default:
-        whois: default
+        whoiam: default
         name: JOB playlistArtistHits - Cover
         enable: false     

@@ -1,3 +1,11 @@
+spring:
+  config:
+    import: 
+    - optional:br/application.yml
+    - optional:others/application.yml
+    - optional:default/application.yml
+      
+
 job:
   playlistartisthits:
     cover:

@@ -1,2 +1,5 @@
+spring:
+  config:
+    import: optional:playlist-artist-hits/application.yml
 job:
   whoiam: job

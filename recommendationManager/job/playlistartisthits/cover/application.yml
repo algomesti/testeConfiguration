@@ -1,6 +1,4 @@
-spring:
-  config:
-    import: 
-      - optional:br.yml
-      - optional:other.yml
-      - optional:default.yml
+job:
+  playlistartisthits:
+    cover:
+      whoiam: cover

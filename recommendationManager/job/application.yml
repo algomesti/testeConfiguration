@@ -1,5 +1,5 @@
 spring:
   config:
-    import: optional:playlist-artist-hits/application.yml
+    import: optional:playlistartisthits/application.yml
 job:
   whoiam: job

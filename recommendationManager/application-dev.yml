@@ -1,6 +1,2 @@
-job:
-  playlist-artist-hits:
-    cover:
-      br:
-        force-enable: true
-        schedule: 0 */2 * * * *
+whoiam: devsobrescrito
+whoiamdev: dev

@@ -5,3 +5,7 @@ job:
         whoiam: br
         force-enable: true
         schedule: 0 */2 * * * *
+        cover:
+          attr1: primeiro
+          attr2: segundo
+          attr3: terceiro

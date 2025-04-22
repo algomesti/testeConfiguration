@@ -1,4 +1,1 @@
-spring:
-  config:
-    import: optional:job/application.yml
 job.whoiam: job

@@ -9,4 +9,4 @@ consumer:
         exchange: teste_queue_create_exc
         consumers:
           min: 2
-          max: 17
+          max: 6

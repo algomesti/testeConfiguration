@@ -8,5 +8,5 @@ consumer:
         routing-key: teste_queue_create_rky
         exchange: teste_queue_create_exc
         consumers:
-          min: 2
-          max: 22
+          min: 11
+          max: 21

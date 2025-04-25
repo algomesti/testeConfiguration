@@ -1,6 +1,7 @@
 consumer:
   playlist-artist-hits:
     playlist:
+      module: consumerPlaylistArtistHitsCover
       enrich-playlist:
         enable: true
         queue: teste_recom-playlistArtistHits-enrichPlaylist-pool

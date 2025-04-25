@@ -2,6 +2,6 @@ spring:
   config:
     import: 
     - optional:_default.yml
-    - optional:coverCreate.yml 
-    - optional:playlistCreate.yml 
+    - optional:cover.yml 
+    - optional:playlist.yml 
 

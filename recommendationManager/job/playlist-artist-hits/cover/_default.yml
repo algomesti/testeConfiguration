@@ -1,4 +1,4 @@
 job:
   playlist-artist-hits:
     cover:
-      module: jobPlaylistArtistHitsCover
+      enable: true

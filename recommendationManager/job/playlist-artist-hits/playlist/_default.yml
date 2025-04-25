@@ -1,4 +1,4 @@
 job:
   playlist-artist-hits:
     playlist:
-        module: jobPlaylistArtistHitsPlaylist
+      enable: true

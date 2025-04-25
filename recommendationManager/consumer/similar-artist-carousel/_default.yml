@@ -1,0 +1,12 @@
+consumer:
+  similar-artist-carousel:
+    module: similarArtistCarousel
+    create:
+      enable: true
+      queue: teste_recom_similarArtistCarousel_create_direct
+      dlq: teste_recom_similarArtistCarousel_create_direct.dlq
+      routing-key: similarArtistCarousel
+      exchange: teste_recommendation
+      consumers:
+        min: 4
+        max: 8

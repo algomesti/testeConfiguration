@@ -1,0 +1,7 @@
+consumer:
+  playlist-artist-hits:
+    cover:
+      module: consumerPlaylistArtistHitsCover
+
+
+

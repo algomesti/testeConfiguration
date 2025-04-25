@@ -1,4 +1,12 @@
 consumer:
   playlist-user-hits:
-    module: consumerPlaylistArtistHits
-    
+    module: playlistUserHits
+    create:
+      enable: true
+      queue: teste_recom_playlistUserHits_create_direct
+      dlq: teste_recom_playlistUserHits_create_direct.dlq
+      routing-key: playlistUserHits
+      exchange: teste_recommendation
+      consumers:
+        min: 4
+        max: 8

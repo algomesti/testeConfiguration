@@ -2,6 +2,6 @@ spring:
   config:
     import: 
       - optional:_default.yml
-      - optional:playlist-artist-hits/application.yml
-      - optional:playlist-user-hits/application.yml
+      - optional:playlist-artist-hits/_import.yml
+      - optional:playlist-user-hits/_import.yml
 

@@ -6,7 +6,7 @@ consumer:
         enable: true
         queue: teste_recom-playlistArtistHits-enrichPlaylist-pool
         dlq: teste_recom-playlistArtistHits-enrichPlaylist-pool.dlq
-        routing-key: enrich-playlist
+        routing-key: enrichPlaylist
         exchange: teste_recommendation
         consumers:
           min: 4

@@ -1,4 +1,4 @@
-consumer:
+job:
   playlist-artist-hits:
     playlist:
-        module: jobPlaylist
+        module: jobPlaylistArtistHitsPlaylist

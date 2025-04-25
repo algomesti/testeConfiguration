@@ -1,0 +1,3 @@
+job:
+  playlist-user-hits:
+    module: jobPlaylistUserHits

@@ -1,6 +1,6 @@
 consumer:
   playlist-artist-hits:
-    cover:
+    playlist:
       create:
         enable: true
         queue: teste_queue_create

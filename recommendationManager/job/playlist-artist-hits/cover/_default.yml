@@ -1,3 +1,4 @@
-consumer:
+job:
   playlist-artist-hits:
-    module: jobCover
+    cover:
+      module: jobPlaylistArtistHitsCover

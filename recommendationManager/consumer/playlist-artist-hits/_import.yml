@@ -1,4 +1,3 @@
-whoiam: root
 spring:
   config:
     import: 

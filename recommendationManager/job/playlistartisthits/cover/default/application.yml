@@ -1,7 +1,0 @@
-job:
-  playlistartisthits:
-    cover:
-      default:
-        whoiam: default
-        name: JOB playlistArtistHits - Cover
-        enable: false     

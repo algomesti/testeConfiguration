@@ -1,0 +1,6 @@
+spring:
+  config:
+    import: 
+    - optional:_default.yml
+    - optional:cover/application.yml
+    - optional:playlist/application.yml

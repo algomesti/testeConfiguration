@@ -1,0 +1,3 @@
+consumer:
+  playlist-user-hits:
+    module: consumer

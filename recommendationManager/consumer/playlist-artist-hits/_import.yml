@@ -1,0 +1,8 @@
+whoiam: root
+spring:
+  config:
+    import: 
+    - optional:_default.yml
+    - optional:coverCreate.yml 
+    - optional:playlistCreate.yml 
+

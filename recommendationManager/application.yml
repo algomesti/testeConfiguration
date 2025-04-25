@@ -1,6 +1,6 @@
-whoiam: root
 spring:
   config:
     import: 
-    - optional:job/application.yml
-    - optional:consumer/application.yml
+    - optional:consumer/_import.yml
+    - optional:job/_import.yml
+ 

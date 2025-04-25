@@ -1,5 +1,5 @@
 consumer:
-  playlistartisthits:
+  playlist-artist-hits:
     cover:
       create:
         enable: true

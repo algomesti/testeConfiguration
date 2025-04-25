@@ -1,0 +1,4 @@
+consumer:
+  playlist-artist-hits:
+    playlist:
+        module: jobPlaylist
